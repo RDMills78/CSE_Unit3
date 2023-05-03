@@ -81,3 +81,11 @@ elif (guess == 10):
 else:
   print("too high")
 
+# Step 22 solution
+
+print(False)
+print(4==4)
+print(2+6==8)
+print(5!=3)
+print(5>4)
+print(4<=5)
